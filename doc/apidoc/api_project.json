@@ -1,0 +1,1 @@
+{  "name": "TES API ",  "version": "1.0.0",  "description": "TES Website api v1.0.0",  "title": "web api",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2018-05-20T13:08:38.916Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }}
